@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Dark++",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/out": true
+  }
+}
